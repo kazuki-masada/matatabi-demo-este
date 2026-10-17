@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- お支払い（カードと硬貨） -->
+  <g fill="none" stroke="#3B322E" stroke-width="1.3" stroke-linejoin="round">
+    <rect x="4" y="9" width="20" height="14" rx="2" fill="#F3E9E1"/>
+    <path d="M4 14h20"/>
+    <circle cx="24" cy="22" r="5" fill="#FBF8F4"/>
+  </g>
+</svg>
